@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Sharma 
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 Building
 
 <!---
 Amit6648/Amit6648 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
